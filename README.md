@@ -1,4 +1,8 @@
 # Hackató Jump2Digial - Equip 3
+*Novembre 16-17, 2023*  
+Hackató organitzat per Barcelona Activa a Jump2Digital, la trobada organitzada per la Mobile World Capital Barcelona. 
+
+**El projecte ha sigut guanyador.**
 
 Reduir la concentració de turístes a punts molt coneguts de Barcelona. L'objectiu d'aquesta aplicació és decentralitzar la concentració de persones turístes a certes zones de la ciutat i animar-los a visitar altres llocs, potser menys coneguts, que es veuen des del "BCN secreta".
 
